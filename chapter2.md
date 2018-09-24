@@ -1,3 +1,4 @@
+The machine wandered through the forest, examining all of the many wonders it saw.
 The trees on this planet were so strange, but so beautiful.
 There were animals, too, unlike anything the machine had seen on its home planet.
 The machine saw a small squirrel-like creature, and walked up to it, but it ran away.
