@@ -9,4 +9,5 @@ The pod door opened with a hiss.
 The machine rolled out dispassionately, following its command to explore and classify the organisms it encountered.
 Outside the door, there was a beautiful forest.
 
+=======
 The machine rolled out dispassionately into the beautiful forest, following its command to explore and classify the organisms it encountered.
