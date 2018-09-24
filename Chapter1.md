@@ -8,8 +8,11 @@ The machine peered out the window of the landing pod as the parachute deployed, 
 The pod door opened with a hiss.
 <<<<<<< HEAD
 <<<<<<< HEAD
+The machine rolled out dispassionately, following its command to explore and classify the organisms it encountered.
+Outside the door, there was a beautiful forest.
 =======
 <<<<<<< HEAD
+"OMG is this life?" pondered the robot.
 =======
 The machine rolled out dispassionately, following its command to explore and classify the organisms it encountered.
 Outside the door, there was a beautiful forest.
