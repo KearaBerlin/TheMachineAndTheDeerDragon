@@ -7,9 +7,12 @@ This would be the first true test of its mechanical salt.
 The machine peered out the window of the landing pod as the parachute deployed, and it floated gently down into a forest of tall pink cotton pillars.
 The pod door opened with a hiss.
 <<<<<<< HEAD
+<<<<<<< HEAD
 "OMG is this life?" pondered the robot.
 =======
 The machine rolled out dispassionately, following its command to explore and classify the organisms it encountered.
 Outside the door, there was a beautiful forest.
 >>>>>>> 4fb87b6d8f6930d316678611df6c87d968a5a4d7
 >>>>>>> d82f6ee0b1fcf6fdee12e5bd097b4aaa2ab3adb3
+=======
+>>>>>>> 172411368c812e7bbb71d4fdf9f66b60a329c76a
