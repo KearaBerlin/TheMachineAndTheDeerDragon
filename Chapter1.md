@@ -8,4 +8,3 @@ The machine peered out the window of the landing pod as the parachute deployed, 
 The pod door opened with a hiss.
 The machine rolled out dispassionately, following its command to explore and classify the organisms it encountered.
 Outside the door, there was a beautiful forest.
->>>>>>> 4fb87b6d8f6930d316678611df6c87d968a5a4d7
